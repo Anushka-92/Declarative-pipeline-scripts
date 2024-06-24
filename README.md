@@ -39,13 +39,17 @@ loging to jebkins server using public ip of instance followed by :8080
 Install required plugins like GitHub plugin ,Maven Invoker plugin, Maven Integration plugin, Pipeline: Stage View Plugin , Pipeline 
 
 Graphically stage view can be seen as :
+
  ![Step 2](images/2.png)
 
 Check logs/ output of particular stage by clicking on that stage on graphical view as below:
+
  ![Step 3](images/3.png)
 
 Console output of the same can be seen like below with detailed ino about the stages:
+
  ![Step 4](images/4.png)
 
 Else you can choose option as below to directly clone repository from SCM as below:
+
 ![Step 5](images/5.png)
