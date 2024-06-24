@@ -15,14 +15,14 @@ This is a flexible and powerful option that uses Groovy code to define the pipel
 For this pipelines i have launced 1 EC2 linux instance with 15 gb ram and t2.medium AMI ,connected with instnace using mobaxterm and installed git,java,maven and jenkins on that.
 JAVA_HOME and M2_HOME are set as environmental variables in the linux system as below:
 
-```bash
+```
 vi ~/.bash_profile
 
  ![Step 1](images/1.png)
 
 Check the following to see that M2_HOME, java are set.
 
-```bash
+```
 mvn -version
 
 ```bash
