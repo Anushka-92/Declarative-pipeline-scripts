@@ -17,6 +17,7 @@ JAVA_HOME and M2_HOME are set as environmental variables in the linux system as 
 
 ```
 vi ~/.bash_profile
+```
 
  ![Step 1](images/1.png)
 
