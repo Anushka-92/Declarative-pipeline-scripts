@@ -24,14 +24,15 @@ vi ~/.bash_profile
 Check the following to see that M2_HOME, java are set.
 
 ```
-mvn -version
+mvn --version
 
-```bash
 echo $M2_HOME
+```
 
 once everything is installed properly , start jenkins service by below command
-``` bash
+``` 
 service jenkins start
+```
 
 loging to jebkins server using public ip of instance followed by :8080
 
